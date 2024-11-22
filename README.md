@@ -11,19 +11,33 @@ A user-friendly interface that ensures accessibility for all.
 With a robust back-end powered by Symfony and a polished front-end, CultureVibes revolutionizes the way cultural events are organized and experienced.
 
 🔑 Key Features
+
 🎭 Comprehensive Event Management
+
 Discover Events: Explore a rich collection of events with descriptions and media.
+
 Add and Manage: Users can create, edit, and manage their own events seamlessly.
+
 🗓️ Interactive Calendar Integration
+
 View and manage events through an integrated calendar API, simplifying planning.
+
 📂 PDF Export and Data Analytics
+
 PDF Generation: Export event details for sharing or archiving.
+
 Statistics: Gain insights with detailed analytics to monitor trends and performance.
+
 🔍 Advanced Search and Filtering
+
 Refine searches by location, date, or category for a tailored experience.
+
 💬 Real-Time Notifications and Communication
+
 Notify users of updates with real-time integration, including WhatsApp notifications.
+
 💻 Technologies Used
+
 Framework: Symfony (ensuring scalability and maintainability)
 Frontend: Twig, HTML, CSS, JavaScript
 Database: MySQL
