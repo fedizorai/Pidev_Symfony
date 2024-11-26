@@ -6,9 +6,13 @@ CultureVibes is a powerful web application built with Symfony, designed to celeb
 CultureVibes bridges cultures by offering:
 
 A platform to discover diverse cultural events.
+
 Tools to create, manage, and personalize events effortlessly.
+
 A user-friendly interface that ensures accessibility for all.
+
 With a robust back-end powered by Symfony and a polished front-end, CultureVibes revolutionizes the way cultural events are organized and experienced.
+
 
 🔑 Key Features
 
@@ -39,8 +43,12 @@ Notify users of updates with real-time integration, including WhatsApp notificat
 💻 Technologies Used
 
 Framework: Symfony (ensuring scalability and maintainability)
+
 Frontend: Twig, HTML, CSS, JavaScript
+
 Database: MySQL
+
 API Integration: Calendar, notifications for streamlined event management
+
 PDF and Analytics: For enhanced reporting and decision-making
 
