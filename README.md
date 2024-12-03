@@ -50,5 +50,5 @@ Database: MySQL
 
 API Integration: Calendar, notifications for streamlined event management
 
-PDF and Analytics: For enhanced reporting and decision-making
+PDF and Analytics: For enhanced reporting and decision-making.
 
